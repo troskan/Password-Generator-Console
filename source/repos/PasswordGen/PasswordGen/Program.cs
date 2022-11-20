@@ -18,8 +18,6 @@ namespace Password_Generator
 
             Console.Clear();
             Console.WriteLine("Password has been generated.");
-            Console.WriteLine("Tests");
-            Console.WriteLine("t");
 
             StringBuilder s = new StringBuilder();
 
